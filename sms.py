@@ -2,14 +2,7 @@
 """
 Created on Thu Apr 27 23:13:14 2023
 
-@author: balbi
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 27 19:40:36 2023
-
-@author: balbi
+@author: lusgan
 """
 
 from twilio.rest import Client
